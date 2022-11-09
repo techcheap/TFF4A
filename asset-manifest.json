@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/TFF4A/static/css/main.52341d33.css",
-    "main.js": "/TFF4A/static/js/main.8b625016.js",
+    "main.css": "/TFF4A/static/css/main.2ffe079c.css",
+    "main.js": "/TFF4A/static/js/main.92ee497b.js",
     "static/js/787.71e672d5.chunk.js": "/TFF4A/static/js/787.71e672d5.chunk.js",
+    "static/media/logo_tff4a.png": "/TFF4A/static/media/logo_tff4a.a1d3d51c973a1dd6706d.png",
     "index.html": "/TFF4A/index.html",
     "static/media/Eclipse-1s-200px.svg": "/TFF4A/static/media/Eclipse-1s-200px.48bf1be6240424a1e41c28017cf6d4a1.svg",
-    "main.52341d33.css.map": "/TFF4A/static/css/main.52341d33.css.map",
-    "main.8b625016.js.map": "/TFF4A/static/js/main.8b625016.js.map",
+    "main.2ffe079c.css.map": "/TFF4A/static/css/main.2ffe079c.css.map",
+    "main.92ee497b.js.map": "/TFF4A/static/js/main.92ee497b.js.map",
     "787.71e672d5.chunk.js.map": "/TFF4A/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52341d33.css",
-    "static/js/main.8b625016.js"
+    "static/css/main.2ffe079c.css",
+    "static/js/main.92ee497b.js"
   ]
 }
